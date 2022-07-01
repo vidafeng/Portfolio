@@ -8,6 +8,7 @@
   bottom: 0;
   left: auto;
   margin: auto;
+  opacity: 0;
 
   svg {
     width: 150%;
@@ -26,6 +27,7 @@
     width: 150%;
     opacity: 0;
     transform: rotateZ(10deg);
+    // solid logo on top
     z-index: 1;
   }
 }
