@@ -45,7 +45,7 @@ const Home = () => {
           <span className={`${letterClass} _14`}>'m</span>
 
           <img src={LogoTitle} alt="developer"></img>
-          {/* slobodan */}
+
           <AnimatedLetters
             letterClass={letterClass}
             strArray={nameArray}
@@ -59,7 +59,7 @@ const Home = () => {
             idx={22}
           />
         </h1>
-        <h2>Software Engineer in Training</h2>
+        <h2>Software Engineer</h2>
         <Link to="/contact" className="flat-button">
           LET'S CONNECT
         </Link>

@@ -11,7 +11,7 @@ const Sidebar = () => {
     <div className="nav-bar">
       <Link className="logo" to="/">
         <img src={LogoS} alt="logo" />
-        <img className="sub-logo" src={LogoSubtitle} alt="slobodan" />
+        <img className="sub-logo" src={LogoSubtitle} alt="vida" />
       </Link>
       <nav>
         <NavLink exact="true" activeclassname="active" to="/">
@@ -40,7 +40,7 @@ const Sidebar = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://www.linkedin.com/in/vida-f-712906226/"
+            href="https://www.linkedin.com/in/vidafeng/"
           >
             <FontAwesomeIcon icon={faLinkedin} color="4d4d4e" />
           </a>
