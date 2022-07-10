@@ -91,5 +91,11 @@
       min-width: fit-content;
       animation: pulse 1s;
     }
+
+    .text-animate-hover {
+      &:hover {
+        color: #fff;
+      }
+    }
   }
 }
