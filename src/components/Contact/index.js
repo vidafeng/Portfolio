@@ -26,7 +26,7 @@ const Contact = () => {
       )
       .then(
         () => {
-          alert('Message successfuly sent!')
+          alert('Thanks for reaching out! Message successfully sent')
           window.location.reload(false)
         },
         () => {
