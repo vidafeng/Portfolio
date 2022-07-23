@@ -35,8 +35,9 @@ const About = () => {
             />
           </h1>
           <p>
-            Hello, world! I'm Vida, and I'm a Software Engineer passionate about
-            developing scalable, impactful solutions to real-world problems.
+            Hello! I'm Vida, and I'm a Fullstack Software Engineer based in New
+            York City. I'm passionate about developing scalable, impactful
+            solutions to real-world problems.
           </p>
         </div>
 
